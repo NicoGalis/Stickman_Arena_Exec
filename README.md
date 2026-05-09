@@ -101,7 +101,7 @@ Realitza un dash prement dues vegades ràpid la direcció cap endavant o cap enr
 
 ---
 
-### Mecàniques
+### Mecàniques avançades
 
 ### Dash (amb temps de recuperació)
 El dash és un moviment ràpid que et permet avançar o retrocedir de cop.
