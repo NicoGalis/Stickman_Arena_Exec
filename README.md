@@ -101,6 +101,8 @@ Realitza un dash prement dues vegades ràpid la direcció cap endavant o cap enr
 
 ---
 
+### Mecàniques
+
 ### Dash (amb temps de recuperació)
 El dash és un moviment ràpid que et permet avançar o retrocedir de cop.
 Després de fer-ne un, el personatge necessita un petit temps de recuperació abans de poder-ne fer un altre.
@@ -122,6 +124,8 @@ Quan et mous cap enrere caminant, el personatge es desplaça més lentament.
 En canvi, si saltes cap enrere, el moviment és més ràpid, però amb un risc important:
 durant el salt no pots bloquejar, així que quedes exposat als atacs rivals.
 És una eina útil per escapar, però cal utilitzar-la amb cura.
+
+---
 
 ## Requisits del Sistema
 * **SO:** Windows 10 o superior / macOS / Linux  
